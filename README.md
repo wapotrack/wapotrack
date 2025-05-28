@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm **Masto**
 
-🚀 **Passionate Frontend Developer | Indie Game Enthusiast | Tech Explorer**
+🚀 **Full stack developer**
 
 ---
 
