@@ -6,7 +6,7 @@
 
 ### 🔥 About Me
 
-- 🎮 Currently working on **MTA San Andreas - ![MBP Gaming](https://mbpclan.xyz)** 
+- 🎮 Currently working on **MTA San Andreas - [MBP Gaming](https://mbpclan.xyz)** 
 - 🌐 Skilled in **Lua, TypeScript, and Next.js**
 
 📫 **Let's connect!** – Reach me at: **mastoken64@gmail.com**
